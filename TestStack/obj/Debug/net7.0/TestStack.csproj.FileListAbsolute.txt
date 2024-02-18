@@ -1,0 +1,15 @@
+/Users/mac/Desktop/TestStack/TestStack/bin/Debug/net7.0/TestStack
+/Users/mac/Desktop/TestStack/TestStack/bin/Debug/net7.0/TestStack.deps.json
+/Users/mac/Desktop/TestStack/TestStack/bin/Debug/net7.0/TestStack.runtimeconfig.json
+/Users/mac/Desktop/TestStack/TestStack/bin/Debug/net7.0/TestStack.dll
+/Users/mac/Desktop/TestStack/TestStack/bin/Debug/net7.0/TestStack.pdb
+/Users/mac/Desktop/TestStack/TestStack/obj/Debug/net7.0/TestStack.csproj.AssemblyReference.cache
+/Users/mac/Desktop/TestStack/TestStack/obj/Debug/net7.0/TestStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/TestStack/TestStack/obj/Debug/net7.0/TestStack.AssemblyInfoInputs.cache
+/Users/mac/Desktop/TestStack/TestStack/obj/Debug/net7.0/TestStack.AssemblyInfo.cs
+/Users/mac/Desktop/TestStack/TestStack/obj/Debug/net7.0/TestStack.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/TestStack/TestStack/obj/Debug/net7.0/TestStack.dll
+/Users/mac/Desktop/TestStack/TestStack/obj/Debug/net7.0/refint/TestStack.dll
+/Users/mac/Desktop/TestStack/TestStack/obj/Debug/net7.0/TestStack.pdb
+/Users/mac/Desktop/TestStack/TestStack/obj/Debug/net7.0/TestStack.genruntimeconfig.cache
+/Users/mac/Desktop/TestStack/TestStack/obj/Debug/net7.0/ref/TestStack.dll
